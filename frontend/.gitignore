@@ -5,3 +5,4 @@
 # Игнорирование сгенерированных папок
 /node_modules/*
 /dist/*
+/config/version.json
